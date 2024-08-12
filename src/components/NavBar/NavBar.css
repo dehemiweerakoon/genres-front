@@ -1,0 +1,12 @@
+.nav-bar:hover{
+    border-bottom: rgb(13, 74, 155) solid 2px;
+    transition:border-bottom 0.5s ease;
+    transition-delay: 500ms;
+}
+.barem{
+   background-color: brown;
+}
+.nav-link.active {
+    color: blueviolet;
+    border-bottom: rgb(6, 185, 12) solid 2px;
+}
