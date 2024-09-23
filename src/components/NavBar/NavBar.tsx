@@ -30,7 +30,7 @@ const NavBar = () => {
                 to="/genres" 
                 className={({ isActive }) => `nav-link nav-bar ${isActive ? 'active' : ''}`}
               >
-                Genres
+                Genressss
               </NavLink>
             </li>
             <li className="nav-item">
